@@ -21,7 +21,7 @@ from telethon.sessions import StringSession
 from telethon.errors import FloodWaitError, SessionPasswordNeededError
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-BOT_TOKEN      = "8565169210:AAHPKa7S7FEI11pgaMlmrDMs7ZcE59rUYdM"
+BOT_TOKEN      = "8591587390:AAG6ZLHqIo06LBSvxN9IH-fdufHW-59X3zQ"
 ADMIN_IDS      = [5390485406]
 ADMIN_GROUP_ID = -1003886464823
 LOG_CHANNEL_ID = -1003886464823
@@ -33,8 +33,8 @@ IST            = timezone(timedelta(hours=5, minutes=30))
 
 OXAPAY_MERCHANT_KEY = "R7GWJN-NPCMVX-H3QYHQ-FL2DJA"
 OXAPAY_API_BASE     = "https://api.oxapay.com"
-STORE_TAG           = "@iampritichat_bot"
-STORE_LINK          = "https://t.me/iampritichat_bot"
+STORE_TAG           = "@IamAccStorebot"
+STORE_LINK          = "https://t.me/IamAccStorebot"
 SERVER_NUM          = 1
 
 logging.basicConfig(level=logging.INFO)
