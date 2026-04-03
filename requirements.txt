@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+python-telegram-bot
 telethon==1.36.0
 qrcode[pil]==7.4.2
 aiohttp==3.9.3
